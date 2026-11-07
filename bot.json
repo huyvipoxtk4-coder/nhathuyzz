@@ -1,0 +1,38 @@
+{
+    "bots": [
+        {
+            "bot_id": 1,
+            "auth_bot_login": {
+                "access_token": "8418085165:16277A8A6AB2548CFC3C9379402C1E475953A54E4FE58E47CBC2A2670976B473"
+            },
+            "access_bot": [
+                {
+                    "uid": 4344047052,
+                    "expire": "2026-11-19 00:32:50",
+                    "created_at": "2026-10-20 00:32:50",
+                    "updated_at": "2026-10-20 00:32:50"
+                }
+            ],
+            "active_clan": true,
+            "botid": 19046442167,
+            "nickname": "nhathuydevxz",
+            "type": "telegram"
+        },
+        {
+            "bot_id": 2,
+            "auth_bot_login": {
+                "access_token": "8288432820:E8DE7E767DF135E826577760CF125CC4D45DEBE520923DB573BCB990EF7A1E35"
+            },
+            "access_bot": [
+                {
+                    "uid": 4025977640,
+                    "expire_time": "2028-03-02 23:59:59"
+                }
+            ],
+            "active_clan": true,
+            "botid": 18742302322,
+            "nickname": "PhapSu9D7v",
+            "type": "telegram"
+        }
+    ]
+}
